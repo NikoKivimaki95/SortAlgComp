@@ -1,0 +1,1 @@
+Sorting algorithms are implemented as classes. Main executable will have list of instances of these classes and offer the user the ability to choose which algorithms to compare and how long the randomized array that will be sorted should be. It then shows the user the results both in performed operations and in computing time.
